@@ -1,1 +1,5 @@
 
+pandas
+pyodbc
+python-dotenv
+requests
